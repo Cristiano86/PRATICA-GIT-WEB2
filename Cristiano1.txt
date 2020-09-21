@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Teste!!
+=======
+Consegui!!!!!
+>>>>>>> ecdd366ef49c2c54288af13a85cf041753b5944e
